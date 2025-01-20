@@ -1,5 +1,7 @@
 # 威靈頓牛排
 
+![image](https://github.com/user-attachments/assets/b0a00e99-8a64-445d-bb48-af82243e89df)
+
 ## 準備時間
 
 烹飪時間：50 分鐘
